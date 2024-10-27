@@ -19,6 +19,7 @@ Quizzle is a quiz application built using Python's **Tkinter** library for the g
 
 ```bash
 pip install requests
+```
 
 ## How to Use
 
@@ -26,10 +27,12 @@ pip install requests
    ```bash
    git clone https://github.com/yingliu1206/Quiz-App.git
    cd Quiz-App
+   ```
 
 2. **Running the Application**:
    ```bash
    python main.py
+   ```
 
 ### Interface
 
